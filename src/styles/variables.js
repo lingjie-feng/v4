@@ -2,18 +2,18 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #a52a2a;
-    --navy: #ffffff;
-    --light-navy: #fa8072;
-    --lightest-navy: #fdda0d;
-    --navy-shadow: #ee4b2b;
-    --dark-slate: #fa5f55;
-    --slate: #f78fa7;
-    --light-slate: #ffe4e1;
-    --lightest-slate: #faa0a0;
-    --white: #ffc300;
-    --green: #f88379;
-    --green-tint: #6e260e;
+    --dark-navy: white;
+    --navy: white;
+    --light-navy: #ebf1ff;
+    --lightest-navy: #a7c0cd;
+    --navy-shadow: grey;
+    --dark-slate: #495670;
+    --slate: #fe7860;
+    --light-slate: #fe7860;
+    --lightest-slate: #506cf0;
+    --white: green;
+    --green: #718aff;
+    --green-tint: #ffbaae;
 
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;

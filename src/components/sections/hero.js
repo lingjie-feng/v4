@@ -64,9 +64,9 @@ const Hero = () => {
   const four = (
     <p>
       I'm a Pittsburgh-based software engineer who specializes in building (and occasionally
-      designing) exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://www.cassianrx.com/">Cassian Solutions</a> focused on building accessible,
-      human-centered products.
+      designing) exceptional digital experiences. Currently, I'm an student at{' '}
+      <a href="https://www.cmu.edu/">Carnegie Mellon University</a> studying Statistics & Machine
+      Learning
     </p>
   );
   const five = (
